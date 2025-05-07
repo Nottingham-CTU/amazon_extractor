@@ -1,9 +1,9 @@
-Application to extract and collate amazon voucher URLs in a CSV file, from individual emails exported from Outlook. Supports old and new Outlook for Windows, ~~and new Outlook for Mac~~.
+Application to extract and collate amazon voucher URLs in a CSV file, from individual emails exported from Outlook. Supports old and new Outlook for Windows, and new Outlook for Mac.
 
 # User instructions
-1. Download the latest version of extract_links.exe from the releases page: https://github.com/Nottingham-CTU/amazon_extractor/releases
-2. Create a folder on your PC and drag the voucher emails from Outlook into the folder
-3. Open extract_links.exe
+1. Download the latest version of extract_links from the releases page: https://github.com/Nottingham-CTU/amazon_extractor/releases
+2. Create a folder on your computer and drag the voucher emails from Outlook into the folder
+3. Double click extract_links to open it
 4. Click ‘Select folder’
 5. Navigate to the folder you created earlier, which contains the emails
 6. Click ‘Select folder’
